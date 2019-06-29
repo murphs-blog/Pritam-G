@@ -54,13 +54,12 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Thoughts, Stories, Ideas & Rants<strong>{author}</strong>. You can also follow me on
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          Twitter
         </a>
-      </p>
+      </p>.
     </div>
   )
 }
