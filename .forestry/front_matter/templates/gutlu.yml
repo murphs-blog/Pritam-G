@@ -9,4 +9,5 @@ fields:
   name: date
   label: date
 pages:
+- content/blog/Gutuleswhari Maata/gutuleshwari-mtata.md
 - content/blog/Archive/archive.md
